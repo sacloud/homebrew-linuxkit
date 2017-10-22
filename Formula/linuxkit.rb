@@ -1,7 +1,7 @@
 class Linuxkit < Formula
   desc "Lightweight Linux distribution tool"
-  homepage "https://github.com/linuxkit/linuxkit"
-  head "https://github.com/linuxkit/linuxkit.git"
+  homepage "https://github.com/sacloud/linuxkit"
+  head "https://github.com/sacloud/linuxkit.git"
 
   depends_on "go" => :build
 
